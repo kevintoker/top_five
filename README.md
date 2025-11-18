@@ -1,7 +1,7 @@
 # Team
-Nicholas Ricketts
-Julian Whitman
-Kevin Toker
+- Nicholas Ricketts
+- Julian Whitman
+- Kevin Toker
 
 # Top Five
 
