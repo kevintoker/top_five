@@ -8,4 +8,5 @@ I don't have any prior CI/CD experience.
 
 # Julian Whitman Prior CD/CI Experience
 
+I helped code for an update on roblox.
 
